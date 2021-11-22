@@ -49,7 +49,7 @@ nav .nav-search {
     outline: none;
 }
   
-.search {
+.nav-search-bar input{
     padding-left: 1rem;
     width: 80%;
     border: none;
