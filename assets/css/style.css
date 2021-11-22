@@ -6,7 +6,6 @@
     margin: 0;
     font-family:"Josefin Slab",serif ;
 }
-
 html {
     font-size: 10px;
 }
@@ -28,18 +27,16 @@ nav .nav-search {
     justify-content: space-between;
     padding: 2rem;
 }
-
 .nav-search-bar {
     align-self: center;
+    width: 30%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
-    width: 30%;
-    height: 4rem;
-    border-radius: 10px;
     border: 1px solid #d3d3d3;
+    height: 4rem;
+    align-items: center;
+    border-radius: 10px;
 }
-  
 .nav-search-bar button {
     font-size: 1rem;
     color: #262626;
